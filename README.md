@@ -30,4 +30,4 @@ Price, Job Type, Required skills, duration, etc.
   
 6. Visualization and Insights
     - Description: Generates visualizations and extracts meaningful insights from the cleaned and combined job dataset.
-    - Output: 
+    - Output: Plots inside the visualization notebook
